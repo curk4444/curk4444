@@ -1,0 +1,7 @@
+Carlos Ulises Rodriguez KalayKy
+
+Pasos realizados:
+1. Se creó repositorio público llamado "mi-proyecto"
+2. Se añadió archivo README automáticamente
+3. Se subió archivo adicional "leeme.txt"
+4. Se copió la URL del repositorio: https://github.com/usuario/mi-proyecto
